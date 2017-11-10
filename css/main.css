@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  padding: 0;
+}
+
+nav {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.first_class {
+  background-color: #b6fce4;
+  padding: 10px;
+  width: 33%;
+}
+
+.economic_class {
+  background-color: #ffd5a4;
+  padding: 10px;
+  width: 33%;
+}
+
+.seats {
+  border: 1px solid #000;
+  display: inline-block;
+  height: 20vh;
+  margin: 7px;
+  text-align: center;
+  width: 30vh;  
+}
+
+#btn {
+  border-radius: 10px;
+  padding: 10px;
+}
